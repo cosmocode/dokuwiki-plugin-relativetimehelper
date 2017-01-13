@@ -1,0 +1,7 @@
+base   relativetimehelper
+author Michael Große
+email  dokuwiki@cosmocode.de
+date   2017-01-13
+name   relativetimehelper plugin
+desc   Pure helper plugin to format timestamps into relative strings
+url    https://dokuwiki.org/plugin:relativetimehelper
